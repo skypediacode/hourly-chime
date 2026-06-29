@@ -4,12 +4,12 @@ Prepared for Google Play submission of the Android app.
 
 ## App Name
 
-`Hourly Chime: Interval Bell`
+`Hourly Chime: Custom Interval`
 
 Notes:
 
 - Chosen for clarity, search intent, and a slightly stronger functional description.
-- Keeps the main keyword `Hourly Chime` while adding `Interval Bell` for extra context.
+- Keeps the main keyword `Hourly Chime` while adding `Custom Interval` for extra context.
 
 ## Short Description
 
@@ -98,11 +98,11 @@ Only keep claims here that remain true in the shipped app.
 
 ## First Release Notes
 
-`First public release of Hourly Chime: Interval Bell with custom intervals, weekday selection, built-in sounds, volume control, active hours, and next-chime preview.`
+`First public release of Hourly Chime: Custom Interval with custom intervals, weekday selection, built-in sounds, volume control, active hours, and next-chime preview.`
 
 ## Submission Checklist
 
-- Confirm app name is `Hourly Chime: Interval Bell` in the Play listing.
+- Confirm app name is `Hourly Chime: Custom Interval` in the Play listing.
 - Confirm `android:label` matches the published brand.
 - Prepare at least 4 phone screenshots.
 - Make the first screenshot emphasize `Set it once and forget it` and `No ads`.
@@ -114,7 +114,7 @@ Only keep claims here that remain true in the shipped app.
 
 If you want to test variations later:
 
-- `Hourly Chime: Interval Bell`
+- `Hourly Chime: Custom Interval`
 - `Interval Chime`
 
-`Hourly Chime: Interval Bell` is the recommended current default.
+`Hourly Chime: Custom Interval` is the recommended current default.
