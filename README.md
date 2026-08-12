@@ -1,7 +1,7 @@
 # Hourly Chime – Docs Site
 
-Static website for the **Hourly Chime** Android app.  
-Provides a landing page, Privacy Policy, and Terms of Service for Google Play listing.
+Static website for the **Hourly Chime: Custom Interval** app (available on Android and Windows).  
+Provides a landing page, Privacy Policy, and Terms of Service for Google Play and Microsoft Store listings.
 
 ## Pages
 
