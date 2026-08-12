@@ -10,6 +10,8 @@ Provides a landing page, Privacy Policy, and Terms of Service for Google Play an
 | `index.html`          | `/`                    |
 | `privacy-policy.html` | `/privacy-policy.html` |
 | `terms.html`          | `/terms.html`          |
+| `sitemap.xml`         | `/sitemap.xml`         |
+| `robots.txt`          | `/robots.txt`          |
 
 ## Structure
 
@@ -18,6 +20,8 @@ Provides a landing page, Privacy Policy, and Terms of Service for Google Play an
 ├── index.html           # Landing page
 ├── privacy-policy.html  # Privacy policy
 ├── terms.html           # Terms of service
+├── sitemap.xml          # XML Sitemap for search engines
+├── robots.txt           # Search engine crawler instructions
 ├── styles.css           # Shared stylesheet
 └── README.md            # This file
 ```
